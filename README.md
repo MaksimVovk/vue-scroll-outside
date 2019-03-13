@@ -1,6 +1,6 @@
 # vue-scroll-outside
 
-Vue directive to react on clicks outside an element. Great for closing popovers, menus among other things.
+Vue directive to react on scroll outside an element. Great for closing popovers, menus among other things.
 
 ## Install
 
